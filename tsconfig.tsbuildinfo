@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/analytics/engine.ts","./src/assistant/queryengine.ts","./src/data/demodata.ts","./src/data/storage.ts","./src/types/index.ts","./src/utils/importer.ts","./tests/engine.test.ts"],"version":"5.6.3"}
